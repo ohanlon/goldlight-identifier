@@ -3,6 +3,7 @@
   "displayName": "Goldlight.Identifier",
   "description": "Generate UUIDs inside your code editor",
   "version": "0.0.1",
+  "img": "https://github.com/ohanlon/goldlight-identifier/blob/main/src/goldlight.png",
   "engines": {
     "vscode": "^1.76.0"
   },
