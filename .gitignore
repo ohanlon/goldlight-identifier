@@ -3,3 +3,6 @@ dist
 node_modules
 .vscode-test/
 *.vsix
+devops.cmd
+pat.token
+login.cmd
